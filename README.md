@@ -1,5 +1,9 @@
 # prototype
  
+## Program required
+
+1. NodeJS https://nodejs.org/en/download/prebuilt-installer/current
+2. Xamp https://www.apachefriends.org/download.html
 
 
 # Installation
