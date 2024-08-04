@@ -38,3 +38,11 @@ Step 4 Open New terminal and navigate to my_front_end_app directory
         cd my_front_end_app
 
         npm run install
+
+Step 5 Run API
+
+        npm run start:dev
+
+Step 6 Run Front End
+
+        npm run dev
