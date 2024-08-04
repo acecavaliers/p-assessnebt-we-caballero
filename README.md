@@ -5,10 +5,9 @@
 # Installation
 
 navigate to my_rest_api directory.
-cd my_rest_api
+        cd my_rest_api
 
 Steps to install project
-User can buy and sell their project online
 
 Environment Variables.
 To run this project, you will need to add the following environment variables to your .env file
