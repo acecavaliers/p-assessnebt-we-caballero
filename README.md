@@ -31,7 +31,7 @@ Step 2 Paste the codes below:
 Step 3 Install my_rest_api with npm
 
         npm run install
-        npm run migrate
+        npx sequelize-cli db:migrate
 
 Step 4 Open New terminal and navigate to my_front_end_app directory
 
