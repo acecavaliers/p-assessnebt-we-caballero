@@ -20,7 +20,7 @@ Step 2 Paste the codes below:
         APP_PORT=5000
 
         DB_USERNAME=root
-        DB_PASSWORD=''
+        DB_PASSWORD=(your password)
         DB_NAME=my_rest_api
         DB_HOST=localhost
         DB_PORT=3306
@@ -31,6 +31,7 @@ Step 2 Paste the codes below:
 Step 3 Install my_rest_api with npm
 
         npm run install
+        npx sequelize-cli db:create  
         npx sequelize-cli db:migrate
 
 Step 4 Open New terminal and navigate to my_front_end_app directory
